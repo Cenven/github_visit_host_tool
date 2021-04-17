@@ -46,6 +46,7 @@ def getIP(domain):
 
 domain_list={
     'github_domain':'github.com',
+    'github_io':'github.io',
     'github_gist':'gist.github.com',
     'github_raw':'raw.githubusercontent.com',
     'github_cloud':'cloud.githubusercontent.com',
