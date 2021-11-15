@@ -3,3 +3,6 @@
 
 
 This is a GitHub access tool that will automatically modify the host file. It is only applicable to the window system. This tool cannot solve the long-term problem once it is used
+
+### Build to exe
+pyinstaller -F host.py 

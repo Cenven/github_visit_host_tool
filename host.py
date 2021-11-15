@@ -62,6 +62,7 @@ domain_list={
     'github_avatars6':'avatars6.githubusercontent.com',
     'github_avatars7':'avatars7.githubusercontent.com',
     'github_avatars8':'avatars8.githubusercontent.com',
+    'github_githubmemory':'githubmemory.com'
 }
 ip_list={}
 domain_exit_res = {}
