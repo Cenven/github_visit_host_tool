@@ -4,5 +4,9 @@
 
 This is a GitHub access tool that will automatically modify the host file. It is only applicable to the window system. This tool cannot solve the long-term problem once it is used
 
+## 导出依赖
+   - pipreqs ./ --encoding=utf8 --force
+## 安装依赖
+   - pip3 install -r requirements.txt
 ### Build to exe
-pyinstaller -F host.py 
+   - pyinstaller -F host.py 
